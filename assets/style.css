@@ -44,6 +44,25 @@ margin: 0;
   width:100%;
 }
 
+#btn-wrapper{
+	    margin: 30px;
+    width: calc(100% - 60px);
+    font-size: 38px;
+    /* background-color: mediumblue; */
+    padding-top: 30px;
+}
+}
+
+#btn-wrapper .link{
+	background-color: #1212ffc4;
+    color: white;
+    padding: 10px 45px;
+    text-decoration: none;
+    letter-spacing: 6px;
+    word-spacing: 5px;
+    border-radius: 66px;
+}
+
 #footer{
   margin-top: -5px;
     background-color: rgb(144,138,138);
